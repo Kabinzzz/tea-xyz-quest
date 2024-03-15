@@ -1,10 +1,9 @@
 {
-  "name": "@kabinzzz/tea-xyz-quest",
+  "name": "@kabinz/tea-xyz-quest",
   "version": "1.0.0",
   "description": "Quest for tea.xyz",
   "main": "index.js",
-  "author": "@kabinzzz",
-  "repository": "https://github.com/kabinzzz/tea-xyz-quest.git",
-  "registry-url: https://registry.npmjs.org/",
+  "author": "@kabinz",
+  "repository": "https://github.com/Kabinzzz/tea-xyz-quest.git",
   "license": "ISC"
 }

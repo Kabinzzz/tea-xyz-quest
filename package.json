@@ -4,6 +4,9 @@
   "description": "Quest for tea.xyz",
   "main": "index.js",
   "author": "@kabinzzz",
-  "repository": "https://github.com/Kabinzzz/tea-xyz-quest.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kabinzzz/tea-xyz-quest.git"
+  },
   "license": "ISC"
 }
